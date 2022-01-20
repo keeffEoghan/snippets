@@ -35,8 +35,7 @@
     "files": [
       "*.{js,glsl}",
       "demo/**/*",
-      "dist/**/*",
-      "docs/**/*"
+      "dist/**/*"
     ],
     "targets": {
       "cjs": {
